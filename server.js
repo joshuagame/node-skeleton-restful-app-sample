@@ -1,3 +1,5 @@
+// server.js
+
 var app = require('./app');
 var debug = require('debug')('node-skeleton-restful-app-sample:server');
 var http = require('http');
